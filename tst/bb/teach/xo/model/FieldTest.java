@@ -6,9 +6,7 @@ import java.awt.*;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by geo on 05.02.2016.
- */
+
 public class FieldTest {
 
     @Test
